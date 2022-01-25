@@ -1,0 +1,7 @@
+VAR
+	doorSM : FBGate := (0);
+	ledSM : LedCtrl := (0);
+	ETAD : UINT := 0;
+	Speed : INT := 0;
+	driveSM : DriveControl;
+END_VAR

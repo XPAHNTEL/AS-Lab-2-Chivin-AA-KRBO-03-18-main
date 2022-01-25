@@ -1,0 +1,11 @@
+VAR
+	gAxis01 : ACP10AXIS_typ := (0);
+	gAxis01_HW : SdcHwCfg_typ := (0);
+	gAxis01_DrvIf : SdcDrvIf16_typ := (0);
+	gAxis01_DiDoIf : SdcDiDoIf_typ := (0);
+	gAxis01_ModuleOk : BOOL := 0;
+	L1 : BOOL;
+	L2 : BOOL;
+	L3 : BOOL;
+	L4 : BOOL;
+END_VAR
